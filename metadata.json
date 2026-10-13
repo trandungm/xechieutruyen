@@ -1,0 +1,6 @@
+{
+  "name": "Xế Chiều Studio",
+  "description": "Studio tạo hình ảnh hoạt hình 2D đồng bộ kịch bản YouTube cho kênh Xế Chiều Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
